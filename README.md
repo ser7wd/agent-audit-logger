@@ -6,7 +6,7 @@ AI agents are powerful. They're also unpredictable. They call tools, place order
 
 Agent Audit Logger is lightweight middleware that wraps any tool call in any agent. Every action gets logged with intent, input, output, outcome, and duration. Destructive operations get flagged before they fire.
 
-Built by someone who ran a live algorithmic trading bot with real money and had no idea what it was actually doing. This is the tool that should have existed.
+Running a production AI agent with real financial stakes and no audit trail is a bad idea. Not because the agent breaks — because the tooling to understand it doesn't exist. Agent Audit Logger fixes that.
 
 ---
 
