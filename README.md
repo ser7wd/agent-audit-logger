@@ -1,7 +1,7 @@
 # Agent Audit Logger
 
 **Know what your AI agent is actually doing — and stop it before it makes a costly mistake.**
-
+![Agent Audit Logger Demo](AAL-demo.gif)
 AI agents are powerful. They're also unpredictable. They call tools, place orders, send emails, delete files — and most developers have no structured record of what happened, why it happened, or how to stop it from happening again.
 
 Agent Audit Logger is lightweight middleware that wraps any tool call in any agent. Every action gets logged with intent, input, output, outcome, and duration. Destructive operations get flagged before they fire.
