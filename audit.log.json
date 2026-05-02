@@ -1,0 +1,1 @@
+{"id":"aal_1777752847144_clxd6f","timestamp":"2026-05-02T20:14:07.144Z","agent_id":"test-agent","tool_name":"fakeApiCall","intent":"Testing the audit logger","input":{"param":"value"},"output":{"status":"ok","data":"some result"},"outcome":"success","duration_ms":0,"destructive":false,"flagged":false,"flag_reason":null}
