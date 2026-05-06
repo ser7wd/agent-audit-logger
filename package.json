@@ -1,12 +1,23 @@
 {
   "name": "agent-audit-logger",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Lightweight middleware to log and flag AI agent tool calls. Know what your agent is doing — and stop it before it makes a costly mistake.",
+  "main": "src/index.js",
+  "keywords": [
+    "ai",
+    "agent",
+    "logging",
+    "observability",
+    "llm",
+    "middleware",
+    "audit",
+    "langchain",
+    "openai",
+    "anthropic"
+  ],
+  "author": "Ser7wd",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  }
 }
